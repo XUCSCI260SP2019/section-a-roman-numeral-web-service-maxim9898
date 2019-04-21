@@ -1,6 +1,6 @@
 
 package com.rest;
-
+// decode class
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
 import javax.ws.rs.POST;
