@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.xavier.csci.maxim9898.WebService.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.xavier.csci.maxim9898.WebService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.xavier.csci.maxim9898.WebService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.xavier.csci.maxim9898.WebService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.xavier.csci.maxim9898.WebService.test.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.xavier.csci.maxim9898.WebService.test.iml" />
+    </modules>
+  </component>
+</project>
