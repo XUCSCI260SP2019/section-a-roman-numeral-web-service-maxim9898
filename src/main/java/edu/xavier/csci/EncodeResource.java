@@ -12,7 +12,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 @Path("encode")
-public class EncodeResource {
+public class tEncodeResource {
 
     @POST
     @Path("/")

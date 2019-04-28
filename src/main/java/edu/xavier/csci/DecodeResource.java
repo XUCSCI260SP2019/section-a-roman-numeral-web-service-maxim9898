@@ -1,5 +1,5 @@
 
-package com.rest;
+package edu.xavier.csci;
 // decode class
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
